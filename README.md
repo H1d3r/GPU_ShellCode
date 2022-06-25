@@ -16,13 +16,12 @@ payload. i didnt add any tricks to this step, just a virtualalloc and a rwx sect
 
 #### Demo:
 ![img](https://gitlab.com/ORCA000/gp/-/raw/main/images/demo1.png)
+#### Thanks for : [vxunderground papers](https://github.com/vxunderground/VXUG-Papers/blob/main/GpuMemoryAbuse.cpp)
+
 
 <br>
 <br>
 <br>
 
-<h6 align="center"> <i>#                                   STAY TUNED FOR MORE</i>  </h6> 
-
-![120064592-a5c83480-c075-11eb-89c1-78732ecaf8d3](https://gitlab.com/ORCA666/kcthijack/-/raw/main/images/PP.png)
 
 
